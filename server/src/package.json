@@ -1,0 +1,12 @@
+{
+  "name": "chat-queue",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "firebase-admin": "^4.0.4",
+    "firebase-queue": "^1.6.1"
+  }
+}
